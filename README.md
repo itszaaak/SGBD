@@ -1,6 +1,6 @@
 # SGBD
 ## Sommaire
-1.[Systeme d'information](#Systeme-d-information)  
+1.[Systeme d'information](##systeme-dinformation)  
 2.[Systeme de gestion de base de donneés](#Systeme-de-gestion-de-base-de-donneés)  
 
 
